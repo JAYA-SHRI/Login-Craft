@@ -1,0 +1,55 @@
+body{
+    padding-top: 30vh;
+    margin-left: 40vw;
+    margin-right: 40vw;
+ 
+}
+
+.reset{
+    margin-left: 35vw; text-decoration: none;
+        color: rgb(130, 101, 101);
+         margin-left: 0;
+   
+}  
+
+.reset:hover{ background-color: rgba(104, 102, 102, 0.455);
+}
+
+.sign{margin-left: 1vw; text-decoration: none;
+        color: rgb(130, 101, 101);
+         margin-left: 1vw;
+    
+    }
+.sign:hover{ background-color: rgba(104, 102, 102, 0.459);
+}
+  
+.submit{
+  text-decoration: none;
+  color: rgba(242, 245, 249, 0.933);
+  font-weight: bold;  
+  font-size: 1vw;
+  background-color: rgba(29, 77, 165, 0.766); ;
+}
+
+
+.submit:hover{
+  
+  background-color: rgba(0, 0, 0, 0.348);
+
+}
+
+#button{
+ 
+  color:  rgb(242, 245, 249);
+  font-weight: bold;  
+  font-size: 1vw;
+  background-color: rgba(110, 105, 108, 0.779);
+   text-decoration: none;
+}
+
+
+#button:hover{
+  text-decoration: none;
+ background-color: rgba(194, 54, 113, 0.54);
+
+}

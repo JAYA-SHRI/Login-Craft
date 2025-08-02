@@ -1,0 +1,48 @@
+body{   
+    padding-top: 28vh;
+    
+     margin-left: 37.5vw;
+  
+  background-image: url(home\ background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 70vh;
+  color: aliceblue;
+  height: 50vh;
+  width: 45vh;
+  
+ 
+}
+.para1{
+ padding-left: 20vw;
+ padding-right: 20vw;
+}
+.font{
+  color: #b46363f2;
+}
+
+
+.font2{
+  text-decoration: none;
+  color: rgb(195, 189, 189);
+  font-weight: bold;
+  padding-top: 0;
+  margin-top: 1vh;
+  margin-right: 4vw;
+  margin-left: 4vw;
+  
+  font-size: 2.2vw;
+  
+}
+
+.font1:hover{
+  
+  background-color: rgba(86, 18, 120, 0.362);
+
+}
+
+.list{
+    text-decoration: none;
+    width: fit-content;
+    
+}
